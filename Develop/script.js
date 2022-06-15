@@ -1,4 +1,3 @@
-
 //Emoticons used copied from: https://japaneseemoticons.me/
 
 //VARIABLES and character arrays 
@@ -116,10 +115,11 @@ function generatePassword () {
   return password; //
 }
 
-// Write password to the #password input
+// Write password to the #password id in html
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
+
   passwordText.value = password;
 
 }
