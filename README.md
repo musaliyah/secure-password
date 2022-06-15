@@ -12,7 +12,7 @@ In addition, I struggled to impact the password id element in the html. Through 
 
 ## Usage 
 
-![Image of prompt pop up](../secure-password/popup.png)
+![Image of prompt pop up](../secure-password/assets/images/popup.png)
 
 When users press generate password, a series of prompts will pop up at the top of the screen. 
 
@@ -26,7 +26,7 @@ If the user does not select any character type an alert will pop up stating that
 
 Once the user selects the character length and types, a password is randomly generate and appears in the textbox! As seen below:
 
-![Image of page with randomly generated password in textbox](../secure-password/generatepassword.png)
+![Image of page with randomly generated password in textbox](../secure-password/assets/images/generatepassword.png)
 
 ## Credits 
 
