@@ -1,3 +1,4 @@
+
 //Emoticons used copied from: https://japaneseemoticons.me/
 
 //VARIABLES and character arrays 
