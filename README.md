@@ -2,6 +2,8 @@
 
 https://musaliyah.github.io/secure-password/
 
+By Aliyah Musaliar
+
 ## Password generator that allows users to select length and character types. A password is then andomly generated using special characters, letters and numbers.
 
 In developing the script.js file, I was able to synthesize my understandings from class. In order to complete the assignment I demonstrated using a function, creating if and else if statements, variable creations, querySelectors, adding Event Listeners, and using the document method, getElementById.
